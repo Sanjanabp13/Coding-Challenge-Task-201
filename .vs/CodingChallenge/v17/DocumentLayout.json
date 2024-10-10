@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\repository\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:repository\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\controllers\\aauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:controllers\\aauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723A864-963D-4439-8194-D37B8C5D06F3}|..\\CodingChallengeTests\\CodingChallengeTests.csproj|c:\\sriram\\aspvscode all folder files\\codingchallengetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\exceptions\\repositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:exceptions\\repositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\exceptions\\applicationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:exceptions\\applicationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\TasksRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\interface\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:interface\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|c:\\sriram\\aspvscode all folder files\\codingchallenge\\migrations\\20240912051228_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702503B-CC9C-4CC8-AF8F-EAD86AFAEA1A}|CodingChallenge.csproj|solutionrelative:migrations\\20240912051228_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\CodingChallengeTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Repository\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TasksRepository.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Repository\\TasksRepository.cs",
+              "RelativeToolTip": "Repository\\TasksRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:26:27.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AauthController.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Controllers\\AauthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AauthController.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Controllers\\AauthController.cs",
+              "RelativeToolTip": "Controllers\\AauthController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAADQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:32:33.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:10:55.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwG4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:36:18.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA5wGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:11:49.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Models\\Tasks.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Models\\Tasks.cs",
+              "RelativeToolTip": "Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:59:17.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "Enums\\Status.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Enums\\Status.cs",
+              "RelativeToolTip": "Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:02:45.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "Enums\\Priority.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Enums\\Priority.cs",
+              "RelativeToolTip": "Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:01:32.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationException.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\AuthenticationException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\AuthenticationException.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\AuthenticationException.cs",
+              "RelativeToolTip": "Exceptions\\AuthenticationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:09:49.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationException.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\ApplicationException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ApplicationException.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\ApplicationException.cs",
+              "RelativeToolTip": "Exceptions\\ApplicationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:42:40.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryException.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\RepositoryException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\RepositoryException.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\RepositoryException.cs",
+              "RelativeToolTip": "Exceptions\\RepositoryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:42:51.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallengeTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CodingChallengeTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallengeTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CodingChallengeTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:04:46.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions.cs",
+              "RelativeToolTip": "Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:03:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:42:47.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:09:57.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TasksRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\TasksRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\TasksRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\TasksRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\TasksRepositoryTest.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:18:57.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Enums\\UserRole.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:10:54.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:31:36.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:07:42.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Interface\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ITasksRepository.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Interface\\ITasksRepository.cs",
+              "RelativeToolTip": "Interface\\ITasksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:42:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:36:55.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CodingChallengeTests.csproj",
+              "DocumentMoniker": "C:\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\CodingChallengeTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\CodingChallengeTests.csproj",
+              "ToolTip": "C:\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\CodingChallengeTests.csproj",
+              "RelativeToolTip": "..\\..\\..\\Users\\gunas\\OneDrive\\Documents\\ASPVSCode all folder files\\CodingChallengeTests\\CodingChallengeTests.csproj",
+              "ViewState": "AgIAAB0AAAAANMYYY4zhvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T07:15:25.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskDBcontext.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Models\\TaskDBcontext.cs",
+              "RelativeDocumentMoniker": "Models\\TaskDBcontext.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Models\\TaskDBcontext.cs",
+              "RelativeToolTip": "Models\\TaskDBcontext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:05:07.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T04:03:50.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240912051228_InitialDb.cs",
+              "DocumentMoniker": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Migrations\\20240912051228_InitialDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240912051228_InitialDb.cs",
+              "ToolTip": "C:\\Sriram\\ASPVSCode all folder files\\CodingChallenge\\Migrations\\20240912051228_InitialDb.cs",
+              "RelativeToolTip": "Migrations\\20240912051228_InitialDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:12:32.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

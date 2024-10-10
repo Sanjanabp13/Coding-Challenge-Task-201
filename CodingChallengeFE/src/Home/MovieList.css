@@ -1,0 +1,48 @@
+/* src/MovieList.css */
+.movie-list-container {
+    padding: 20px;
+    max-width: auto;
+    margin: 0 auto;
+}
+
+.movie-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.movie-item {
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1b0101;
+}
+
+.movie-actions button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.edit-btn {
+    background-color: #f0ad4e;
+    color: white;
+}
+
+    .edit-btn:hover {
+        background-color: #ec971f;
+    }
+
+.delete-btn {
+    background-color: #d9534f;
+    color: white;
+}
+
+    .delete-btn:hover {
+        background-color: #c9302c;
+    }
